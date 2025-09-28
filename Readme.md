@@ -1,6 +1,6 @@
 # Pixel To Prototype
 
-## 📖 Introduction
+## Introduction
 
 Welcome to my **CAD Repo**, a focused initiative for me to master **Computer-Aided Design (CAD)** through hands-on modeling, precision design, and mechanical systems thinking. 
 
@@ -10,7 +10,7 @@ This repository is solely dedicated to **CAD-related work** and is part of a bro
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Develop **daily 3D models** based on real mechanical components or conceptual parts.
 - Strengthen proficiency with **SolidWorks**, **Fusion 360**, and **AutoCAD**.
@@ -20,7 +20,7 @@ This repository is solely dedicated to **CAD-related work** and is part of a bro
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ### CAD Software:
 - ✅ SolidWorks (main tool)
@@ -35,7 +35,7 @@ This repository is solely dedicated to **CAD-related work** and is part of a bro
 
 ---
 
-## ✅ Progress Tracker
+## Progress Tracker
 
 | Day | Task | Tool Used | Status |
 |-----|------|-----------|--------|
