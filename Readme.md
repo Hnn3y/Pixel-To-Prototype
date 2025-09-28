@@ -38,6 +38,7 @@ This repository is solely dedicated to **CAD-related work** and is part of a bro
 ## ✅ Progress Tracker
 
 | Day | Task | Tool Used | Status |
+|-----|------|-----------|--------|
 | 01  | Practice Problem 1.1 | SolidWorks | ✅ Completed |
 
 ---
@@ -50,3 +51,6 @@ This repository is solely dedicated to **CAD-related work** and is part of a bro
 - Twitter: [@HENNEY](https://x.com/Henneiiy)
 
 ---
+
+> “Design is intelligence made visible.” — Alina Wheeler  
+> Let’s build what the world can see — one day at a time.
