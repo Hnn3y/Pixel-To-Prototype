@@ -45,6 +45,7 @@ This repository is solely dedicated to **CAD-related work** and is part of a bro
 
 ## Screenshot
 ![UI Preview](./Images/Problem_01.png)
+![UI Preview](./Images/Practice%20Problem%201.3.png)
 
 ---
 
