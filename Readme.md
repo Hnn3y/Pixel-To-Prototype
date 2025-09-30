@@ -40,6 +40,7 @@ This repository is solely dedicated to **CAD-related work** and is part of a bro
 | Day | Task | Tool Used | Status |
 |-----|------|-----------|--------|
 | 01  | Practice Problem 1.1 | SolidWorks | ✅ Completed |
+| 03  | Practice Problem 1.3 | SolidWorks | ✅ Completed |
 
 ---
 
