@@ -60,4 +60,4 @@ This repository is solely dedicated to **CAD-related work** and is part of a bro
 ---
 
 > “Design is intelligence made visible.” — Alina Wheeler  
-> Let’s build what the world can see — one day at a time.
+> Let’s build what the world can see one day at a time.
