@@ -41,12 +41,14 @@ This repository is solely dedicated to **CAD-related work** and is part of a bro
 |-----|------|-----------|--------|
 | 01  | Practice Problem 1.1 | SolidWorks | ✅ Completed |
 | 03  | Practice Problem 1.3 | SolidWorks | ✅ Completed |
+| 05  | Practice Problem 1.4 | SolidWorks | ✅ Completed |
 
 ---
 
 ## Screenshot
 ![UI Preview](./Images/Problem_01.png)
 ![UI Preview](./Images/Practice%20Problem%201.3.png)
+![UI Preview](./Images/Practice Problem 1.4.png)
 
 ---
 
